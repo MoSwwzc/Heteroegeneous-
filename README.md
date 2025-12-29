@@ -1,1 +1,2 @@
-# Heteroegeneous-
+# Heteroegeneous
+python train.py
